@@ -1,0 +1,66 @@
+                                                                                header {
+                                                                                background-color: rgb(137, 187, 216);
+                                                                                color: white;
+                                                                                padding: 10px;
+                                                                                margin: 10pt;
+                                                                                size: 60pt;
+                                                                                text-align: center
+                                                                            }
+                                                                            
+                                                                            body {
+                                                                                background-image: url(background2.jpg)
+                                                                            }
+                                                                            
+                                                                            h2,
+                                                                            {
+                                                                                color: rgb(61, 99, 99)
+                                                                            }
+                                                                            
+                                                                            pre {
+                                                                                color: rgb(12, 110, 110);
+                                                                                font-size: 20px
+                                                                            }
+                                                                            
+                                                                            img {
+                                                                                width: 400px;
+                                                                                margin: 2px
+                                                                            }
+                                                                            
+                                                                            caption {
+                                                                                font-size: 60px
+                                                                            }
+                                                                            
+                                                                            table,
+                                                                            th,
+                                                                            td {
+                                                                                border: 3px solid steelblue;
+                                                                                border-collapse: collapse;
+                                                                                border-spacing: 5px;
+                                                                                margin: 10px
+                                                                            }
+                                                                            
+                                                                            th,
+                                                                            td {
+                                                                                font-size: 20px;
+                                                                                padding: 10px;
+                                                                                width: 95pt;
+                                                                                height: 15pt;
+                                                                            }
+                                                                            
+                                                                            th {
+                                                                                background-color: rgb(14, 45, 138);
+                                                                                color: white
+                                                                            }
+                                                                            /* 讓tr隔一行有背景顏色 */
+                                                                            
+                                                                            tr:nth-child(even) {
+                                                                                background-color: rgb(208, 231, 240)
+                                                                            }
+                                                                            
+                                                                            footer {
+                                                                                background-color: rgb(137, 187, 216);
+                                                                                color: white;
+                                                                                padding: 10px;
+                                                                                margin: 10pt;
+                                                                                size: 40pt;
+                                                                                text-align: center
